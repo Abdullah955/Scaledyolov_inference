@@ -3,9 +3,9 @@
 [ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4) 👉 inference code for detecting yout images using ScaledYolov4
 
 
-1- install mish-cuda
-2- Dowload the repo
-3 - ``` import syolo ``` 
+1. install mish-cuda
+2. Dowload the repo
+3. ``` import syolo ``` 
 
 
 
