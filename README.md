@@ -1,23 +1,11 @@
 # ScaledYolo inference
 
- # Demo
- <a href="">here</a>.
-<br>
-
 [ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4) 👉 inference code for detecting yout images using ScaledYolov4
 
 
-<img src="https://j.gifs.com/BBqE8Y.gif">
-
-## Installation
-[FR]: https://github.com/akashnimare/foco/releases
-
-### OS X
-
-
-install mish-cuda
-Dowload the repo
-``` import syolo ``` 
+1- install mish-cuda
+2- Dowload the repo
+3 - ``` import syolo ``` 
 
 
 
@@ -80,7 +68,7 @@ syolo.plot_pred(img, pred)
 
 ```
 
-<img src="media/test_output.png" alt="syolo" width="160">
+<img src="media/test_output.png" alt="syolo" width="650">
 
 
 
