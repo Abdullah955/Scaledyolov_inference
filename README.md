@@ -3,6 +3,10 @@
 [ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4) 👉 inference code for detecting yout images using ScaledYolov4
 
 
+most of the code is from the original yolo repo and i did some editing to make it easier to test your own model in jupyter notebook.
+
+
+
 1. install mish-cuda
 2. Dowload the repo
 3. ``` import syolo ``` 
